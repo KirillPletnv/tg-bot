@@ -6,6 +6,7 @@ from aiogram.utils.token import TokenValidationError
 from check_imei import check_imei, format_dict_to_string
 
 #abracadabra
+#gitlab CICD test str
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
