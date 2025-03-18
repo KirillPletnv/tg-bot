@@ -5,6 +5,8 @@ from aiogram.filters import Command
 from aiogram.utils.token import TokenValidationError
 from check_imei import check_imei, format_dict_to_string
 
+#abracadabra
+
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
