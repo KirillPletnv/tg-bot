@@ -8,7 +8,7 @@ from check_imei import check_imei, format_dict_to_string
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-BOT_TOKEN = "..."
+BOT_TOKEN = "7826423138:AAF4kzMayx1VUY_f8tXpxT8nqqUwsnZjzX8"
 # Мой бот @verify_mey_bot id=7826423138 - 'verifybot'
 #"deviceId": "350356670657487"
 bot = Bot(token=BOT_TOKEN)
